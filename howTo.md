@@ -132,7 +132,7 @@ F.eks, vim-fugitive sin url er:
 
 **Så nå kan vi installere plugin som en submodule **
 
-`$ git submodule add [https://github.com/tpope/vim-fugitive.git](https://github.com/tpope/vim-fugitive.git) bundle/fugitive `
+`$ git submodule add https://github.com/tpope/vim-fugitive.git bundle/fugitive `
 
 Det vi gjør her er at vi ønsker å `git submodule add` <__plugin__url__repo__> <til lokal filbane>, hvis vi ønsker å endre navn kan vi gjøre det. F.eks så heter plugin `vim-fugitive`, men vi ønsker å kalle den bare `fugitive` siden det er ganske openbart at det er en vim plugin ut ifra at den er med i `~/.vim` repoet vårt. 
 
