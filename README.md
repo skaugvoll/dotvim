@@ -1,3 +1,7 @@
+References: 
+	-http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
+	
+
 To install:
 	1. First Clone the repo and rename to .vim in your home folder	
 		git clone http://github.com/skaugvoll/dotvim.git ~/.vim
