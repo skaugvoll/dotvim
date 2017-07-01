@@ -72,7 +72,7 @@ Then the other user can pull the changes and they should be ready to use.
 
 ##
 
-##Installere & Synke Plugins - 
+## Installere & Synke Plugins - 
 
 Det vi blir å gjøre er å installere plugins som git submoduler (repo inni repo) 
 
@@ -150,7 +150,7 @@ Det vi måtte gjøre er 
 
 ##
 
-## Hvordan andre kan pulle configs og installere plugins / submodules:**
+## Hvordan andre kan pulle configs og installere plugins / submodules:
 
 De må pulle siste versjon av vårt remote reposetory (dotvim)
 
