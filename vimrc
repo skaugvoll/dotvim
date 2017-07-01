@@ -1,3 +1,4 @@
-execute pathogen#infect()
+execute pathogen#infect() 
 
-set number
+set number 
+set laststatus=2
