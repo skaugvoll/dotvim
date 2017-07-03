@@ -2,6 +2,8 @@ execute pathogen#infect()
 
 " Basic vim config
 set number
+filetype on
+syntax on
 
 " Vim AirLine config 
 set laststatus=2
