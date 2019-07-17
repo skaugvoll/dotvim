@@ -4,6 +4,7 @@ execute pathogen#infect()
 set number
 filetype on
 syntax on
+set encoding=utf-8
 
 " Set tabs to 4 spaces
 filetype plugin indent on
