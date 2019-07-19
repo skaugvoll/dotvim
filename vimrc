@@ -5,6 +5,7 @@ set number
 filetype on
 syntax on
 set encoding=utf-8
+set spell spelllang=en_us
 
 " Set tabs to 4 spaces
 filetype plugin indent on
@@ -31,3 +32,4 @@ let g:syntastic_python_checkers = ['pylint']
 
 " Nerdtree remap hotkey
 map <C-n> :NERDTreeToggle<CR>
+
